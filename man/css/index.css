@@ -1,19 +1,19 @@
-.divTable{
+.divTable {
 	display:table;
-	width:1024px;
-	font-family:tahoma;
-	font-size:13pt;
-	margin-left:auto;
-	margin-right:auto;
-	direction:rtl;
+		width:1024px;
+		font-family:tahoma;
+			font-size:13pt;
+				margin-left:auto;
+			margin-right:auto;
+		direction:rtl;
 }
 
-.divTableRow{
+.divTableRow {
 	display:table-row;
 }
 
-.divTableCell{
-	display:table-cell;
-	border:1px solid #999999;
-	padding:3px 10px;
-}
+.divTableCell {
+		display:table-cell;
+			border:1px solid #999999;
+		padding:3px 10px;
+}	
