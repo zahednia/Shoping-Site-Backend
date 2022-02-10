@@ -26,6 +26,7 @@
 <div dir="ltr" style="text-align:left;">
 
 <?php
+
     echo("realname=".$realname."<br/>");
         echo("username=".$username."<br/>");
             echo("password=".$password."<br/>");
@@ -33,6 +34,7 @@
         echo("email=".$email."<br/>");
 
 ?>
+
 </div>
 
 <?php
